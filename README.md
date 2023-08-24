@@ -28,14 +28,12 @@ This portfolio site showcases my skills, projects, and experiences as a Frontend
 ## Technologies Used
 
 - HTML5, CSS3, JavaScript
-- [React, Tailwind CSS]
-- [Vite, npm]
+- [React,Bootstrap]
 
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/judeebeke/portfolio_site.git`
 2. Navigate to the project directory: `cd portfolio-site`
-3. [Install any dependencies, e.g., run `npm install`]
 
 ## Usage
 
@@ -49,8 +47,7 @@ Demo is unavaialble now.
 
 ## Screenshots
 
-![Screenshot 1](assets\readme-display\site-screenshots.PNG)
-![Screenshot 2](screenshots/screenshot2.png)
+Screenshots are unavaialble now.
 
 ## License
 
