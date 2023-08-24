@@ -56,7 +56,7 @@ This project is licensed under the [License Name, e.g., MIT License] - see the [
 ## Contact
 
 - Website: https://ebekesjude.vercel.app
-- LinkedIn: [https://www.linkedin.com/in/jude-ebeke-b67813223]
-- Facebook: [https://www.facebook.com/profile.php?id=100070522303715]
-- Email: [judeebekes67@gmail.com]
-- Twitter/X: [https://mobile.twitter.com/techie_genie]
+- LinkedIn: https://www.linkedin.com/in/jude-ebeke-b67813223
+- Facebook: https://www.facebook.com/profile.php?id=100070522303715
+- Email: judeebekes67@gmail.com
+- Twitter/X: https://mobile.twitter.com/techie_genie
